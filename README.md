@@ -86,5 +86,4 @@ Build a solid foundation in Python with real-world experience using tools and li
 
 ---
 
-## 🗂️ Repo Structure
 
